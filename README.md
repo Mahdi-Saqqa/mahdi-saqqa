@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋<br>I am a Full-Stack developer with a customer-centric focus, utilizing strong technical skills and a creative problem-solving approach. My expertise lies in crafting digital solutions that are both beautiful and functional, consistently exceeding customer expectations.</h2>
+<h2 align="center">Hi👋<br>I am a Full-Stack developer with a customer-centric focus, utilizing strong technical skills and a creative problem-solving approach. My expertise lies in crafting digital solutions that are both beautiful and functional, consistently exceeding customer expectations.</h2>
 
 ###
 
