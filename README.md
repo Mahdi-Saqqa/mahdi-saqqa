@@ -119,5 +119,9 @@
 ###
 
 <br clear="both">
-![Snake Animation](https://raw.githubusercontent.com/Mahdi-Saqqa/mahdi-saqqa/output/snake.svg)
-
+![Snake Animation]()
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/Mahdi-Saqqa/mahdi-saqqa/output/snake.svg)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/Mahdi-Saqqa/mahdi-saqqa/output/snake.svg)" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
