@@ -120,6 +120,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mahdi-Saqqa/mahdi-saqqa/7522a2d3769c184bd1d1ec67e835ee6fb09c80b1/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahdi-Saqqa/mahdi-saqqa/7522a2d3769c184bd1d1ec67e835ee6fb09c80b1/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahdi-Saqqa/mahdi-saqqa/7522a2d3769c184bd1d1ec67e835ee6fb09c80b1/snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ###
